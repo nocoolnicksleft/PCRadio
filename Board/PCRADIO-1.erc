@@ -1,0 +1,13 @@
+EAGLE Version 4.15 Copyright (c) 1988-2005 CadSoft
+
+Electrical Rule Check für c:/lokaledaten/eagle/projects/PCRadio/PCRADIO-1.sch am 07.06.2006 20:26:58 
+
+WARNUNG: Seite 2/3: POWER-Pin IC2 VSS verbunden mit GND
+WARNUNG: Seite 2/3: POWER-Pin IC2 VDD verbunden mit VCC
+WARNUNG: Seite 2/3: POWER-Pin IC2 VDD verbunden mit VCC
+WARNUNG: Seite 2/3: POWER-Pin IC2 VSS verbunden mit GND
+
+Board und Schaltplan sind konsistent
+
+    0 Fehler
+    4 Warnungen
